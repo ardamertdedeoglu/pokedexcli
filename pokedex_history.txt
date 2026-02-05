@@ -1,2 +1,3 @@
 map
 catch pidgey
+exit
